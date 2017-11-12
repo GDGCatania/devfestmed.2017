@@ -210,6 +210,17 @@
     </div>
   </section>
 
+  <section class="c-section">
+      <div class="row align-center-middle">
+          <div class="shrink column text-center">
+              <a href="https://www.facebook.com/gdgcatania/" target="_blank"><img src="static/images/facebook.png" alt="Facebook" class="c-social-icon"></a>
+          </div>
+          <div class="shrink column text-center">
+              <a href="https://twitter.com/gdgcatania" target="_blank"><img src="static/images/twitter.png" alt="Twitter" class="c-social-icon"></a>
+          </div>
+      </div>
+  </section>
+
 </body>
 
 </html>
