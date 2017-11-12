@@ -122,7 +122,8 @@
     },
     {
       "full_name": "Angelo Pirrone",
-      "category": "T"
+      "category": "T",
+      "photo": "angelo_pirrone.jpg"
     },
     {
       "full_name": "Edoardo Ullo",
@@ -236,7 +237,7 @@
     {
       "name": "Polara Bibite",
       "url": "http://www.polara.it/it",
-      "photo": ""
+      "photo": "polara.png"
     },
     {
       "name": "Campus Party",

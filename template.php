@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="static/style.css?v=1.1">
   <title>GDG Devfest Mediterranean 2017</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
@@ -17,7 +17,7 @@
       <div class="small-10 small-offset-1 small-order-2 medium-offset-0 medium-5 medium-order-1 column">
         <div class="row">
           <div class="column">
-            <img src="static/images/title.svg" alt="GDG Devfest Mediterranean 2017">
+            <img src="static/datimages/title.svg" alt="GDG Devfest Mediterranean 2017">
           </div>
         </div>
         <div class="row">
