@@ -12,10 +12,14 @@
 @include foundation-visibility-classes;
 
 .c-cta-box {
-
   &__title {
-    margin: 100px auto 20px auto;
+    margin: 80px auto 20px auto;
   }
+}
+
+.c-social-icon {
+  width: 100px;
+  height: 100px;
 }
 
 .head-claim {
