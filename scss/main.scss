@@ -1,0 +1,188 @@
+@import 'fonts';
+
+@import 'settings';
+
+@import '../node_modules/foundation-sites/scss/foundation';
+
+@include foundation-global-styles;
+@include foundation-flex-grid;
+@include foundation-flex-classes;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-visibility-classes;
+
+.c-cta-box {
+
+  &__title {
+    margin: 100px auto 20px auto;
+  }
+}
+
+.head-claim {
+  margin-bottom: 20px;
+}
+
+.button--cta {
+  @include button-style($alert-color, auto, auto);
+  @include button-hollow;
+  border: 3px solid $alert-color;
+  border-radius: 25px;
+  text-transform: uppercase;
+  color: $alert-color;
+  font-weight: bold;
+  padding: 0.85em 2em;
+
+  margin-top: 25px;
+  margin-bottom: 50px;
+
+  &:hover {
+    color: white;
+    background-color: $alert-color;
+  }
+}
+
+.c-section {
+  color: #353447;
+  background: white;
+
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  @media screen and (max-width: 1600px) {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  display: block;
+
+  &__title {
+    color: #353447;
+    text-align: center;
+  }
+
+  &__divider {
+    width: 127px;
+    border-color: #353447;
+    border-width: 3px;
+    display: block;
+    margin: 0 auto 120px auto;
+
+    @media screen and (max-width: 39.9375em) {
+      margin-bottom: 60px;
+    }
+  }
+
+}
+
+.c-section--inverted {
+  color: white;
+  background: #353447;
+
+  .c-section__title {
+    color: white;
+  }
+
+  .c-section__divider {
+    border-color: white;
+  }
+}
+
+.c-section--no-padding-bottom {
+  padding-bottom: 0;
+}
+
+.c-speaker {
+
+  &__photo {
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+    margin: 20px 0;
+    display: block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    @media screen and (max-width: 39.9375em) {
+      width: 125px;
+      height: 125px;
+    }
+  }
+
+  &__name {
+    font-size: 30px;
+    font-family: 'Product Sans';
+    font-weight: bold;
+    display: block;
+    word-spacing: 100vw;
+    line-height: 1.1; 
+  }
+
+  &__category {
+    text-transform: uppercase;
+    font-family: 'Product Sans';
+    font-weight: bold;
+    margin: 10px auto;
+    display: block;
+  }
+
+  &__category--marketing {
+    color: #DB4437;
+  }
+
+  &__category--technology {
+    color: #4285F4;
+  }
+
+  &__category--product-design {
+    color: #F4B401;
+  }
+}
+
+.c-sponsor {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: white;
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 15px auto;
+}
+
+.c-location {
+
+  padding-bottom: 100px;
+
+  &__photo {
+    height: 487px;
+    width: 95%;
+  }
+
+  &__logo {
+    margin-bottom: 50px;
+  }
+
+  &__address {
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1.4;
+  }
+}
+
+.c-text-section {
+  @media screen and (max-width: 39.9375em) {
+    margin-top: 25px;
+  }
+}
+
+.c-organizer-info {
+  &__logo {
+    margin: 25px auto 25px auto;
+  }
+  @media screen and (max-width: 39.9375em) {
+    margin-bottom: 50px;
+  }
+}
+
+

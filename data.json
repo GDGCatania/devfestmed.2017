@@ -1,0 +1,431 @@
+{
+  "speakers": [
+    {
+      "full_name": "Jessica Tibaldi",
+      "category": "T",
+      "photo": "jessica_tibaldi.jpg"
+    },
+    {
+      "full_name": "Daniele Maggio",
+      "category": "T",
+      "photo": "daniele_maggio.jpg"
+    },
+    {
+      "full_name": "Azzurra Ragone",
+      "category": "T",
+      "photo": "azzurra_ragone.jpg"
+    },
+    {
+      "full_name": "Maurizio Mangione",
+      "category": "T",
+      "photo": "maurizio_mangione.jpg"
+    },
+    {
+      "full_name": "Roberto Orgiu",
+      "category": "T",
+      "photo": "roberto_orgiu.jpg"
+    },
+    {
+      "full_name": "Boris D'Amato",
+      "category": "T",
+      "photo": "boris_damato.jpg"
+    },
+    {
+      "full_name": "Paolo Rotolo",
+      "category": "D",
+      "photo": "paolo_rotolo.jpeg"
+    },
+    {
+      "full_name": "Mike Trizio",
+      "category": "T",
+      "photo": "mike_trizio.jpg"
+    },
+    {
+      "full_name": "Michel Murabito",
+      "category": "T",
+      "photo": "michel_murabito.jpg"
+    },
+    {
+      "full_name": "Carlo Lucera",
+      "category": "T",
+      "photo": "carlo_lucera.jpg"
+    },
+    {
+      "full_name": "Francesco Romano",
+      "category": "T",
+      "photo": "francesco_romano.jpg"
+    },
+    {
+      "full_name": "Giuseppe Coppola",
+      "category": "M",
+      "photo": "giuseppe_coppola.png"
+    },
+    {
+      "full_name": "Francesco Sciuti",
+      "category": "T",
+      "photo": "francesco_sciuti.png"
+    },
+    {
+      "full_name": "Raffaele Dibennardo",
+      "category": "T",
+      "photo": "raffaele_dibennardo.jpg"
+    },
+    {
+      "full_name": "Gabriele Baldoni",
+      "category": "T",
+      "photo": "gabriele_baldoni.jpg"
+    },
+    {
+      "full_name": "Erika Molino",
+      "category": "T",
+      "photo": "erika_molino.jpg"
+    },
+    {
+      "full_name": "Stefano Borzì",
+      "category": "T",
+      "photo": "stefano_borzi.jpg"
+    },
+    {
+      "full_name": "Marco Giammetti",
+      "category": "T",
+      "photo": "marco_giammetti.jpg"
+    },
+    {
+      "full_name": "Ausilia Napoli",
+      "category": "M",
+      "photo": "ausilia_napoli.jpg"
+    },
+    {
+      "full_name": "Lorenzo Catania",
+      "category": "M",
+      "photo": "lorenzo_catania.jpg"
+    },
+    {
+      "full_name": "Samuele Padalino",
+      "category": "D",
+      "photo": "samuele_padalino.jpg"
+    },
+    {
+      "full_name": "Marialuisa Sanfilippo",
+      "category": "M",
+      "photo": "marialuisa_sanfilippo.jpg"
+    },
+    {
+      "full_name": "Giovanni Amato",
+      "category": "M",
+      "photo": "giovanni_amato.jpg"
+    },
+    {
+      "full_name": "Salvo Tucci",
+      "category": "D",
+      "photo": "salvo_tucci.jpg"
+    },
+    {
+      "full_name": "Angelo Pirrone",
+      "category": "T"
+    },
+    {
+      "full_name": "Edoardo Ullo",
+      "category": "M",
+      "photo": "edoardo_ullo.jpg"
+    },
+    {
+      "full_name": "Aurelio LaFerla",
+      "category": "T",
+      "photo": "aurelio_laferla.jpg"
+    },
+    {
+      "full_name": "Luca Calabrese",
+      "category": "M",
+      "photo": "luca_calabrese.jpg"
+    },
+    {
+      "full_name": "Giulio Cantone",
+      "category": "T",
+      "photo": "giulio_cantone.jpg"
+    },
+    {
+      "full_name": "Grazia Mammino",
+      "category": "M",
+      "photo": "grazia_mammino.jpg"
+    },
+    {
+      "full_name": "Benedetto Amata",
+      "category": "M",
+      "photo": "benedetto_amata.jpg"
+    },
+    {
+      "full_name": "Mario Privitera",
+      "category": "D",
+      "photo": "mario_privitera.jpg"
+    },
+    {
+      "full_name": "Giancarlo Sciuto",
+      "category": "M",
+      "photo": "giancarlo_sciuto.jpg"
+    },
+    {
+      "full_name": "Marco Cardile",
+      "category": "M",
+      "photo": "marco_cardile.png"
+    },
+    {
+      "full_name": "Micheal Vincerra",
+      "category": "T",
+      "photo": "michael_vincerra.jpg"
+    },
+    {
+      "full_name": "Graziano Dagata",
+      "category": "T",
+      "photo": "graziano_dagata.jpg"
+    },
+    {
+      "full_name": "Federico Papa",
+      "category": "M",
+      "photo": "federico_papa.jpg"
+    },
+    {
+      "full_name": "Francesco Morreale",
+      "category": "D",
+      "photo": "francesco_morreale.jpg"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Accenture",
+      "url": "https://www.accenture.com/it-it/new-applied-now",
+      "photo": ""
+    },
+    {
+      "name": "Coffice",
+      "url": "http://www.cofficegroup.com/en",
+      "photo": "coffice.png"
+    },
+    {
+      "name": "Neodata",
+      "url": "https://www.neodatagroup.com/it/home",
+      "photo": "neodata.png"
+    },
+    {
+      "name": "Pane&Design",
+      "url": "http://paneedesign.com",
+      "photo": "ped.png"
+    },
+    {
+      "name": "Skylabs",
+      "url": "http://www.skylabs.it/",
+      "photo": "skylabs.png"
+    },
+    {
+      "name": "HelParkinson",
+      "url": "http://www.helparkinson.com/",
+      "photo": "HelParkinson.png"
+    },
+    {
+      "name": "AtFactory StartupLab",
+      "url": "http://atfactory.it/",
+      "photo": "artfactory.png"
+    },
+    {
+      "name": "iCTLab",
+      "url": "https://www.ictlab.srl/",
+      "photo": "ictlab.jpg"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Polara Bibite",
+      "url": "http://www.polara.it/it",
+      "photo": ""
+    },
+    {
+      "name": "Campus Party",
+      "url": "http://italia.campus-party.org/",
+      "photo": "cpit.png"
+    },
+    {
+      "name": "HelParkinson",
+      "url": "http://www.helparkinson.com/",
+      "photo": "HelParkinson.png"
+    },
+    {
+      "name": "Spindox",
+      "url": "https://www.spindox.it/it/",
+      "photo": "spindox.svg"
+    },
+    {
+      "name": "MADD",
+      "url": "https://www.madd.it/",
+      "photo": "madd.png"
+    },
+    {
+      "name": "Hypothermic",
+      "url": "http://www.hypothermicgames.com/",
+      "photo": "hypothermic.png"
+    },
+    {
+      "name": "SEO Tester Online",
+      "url": "https://www.seotesteronline.com/en/",
+      "photo": ""
+    },
+    {
+      "name": "Ludwig",
+      "url": "https://ludwig.guru/",
+      "photo": "ludwig.png"
+    },
+    {
+      "name": "Bycare Lab",
+      "url": "http://www.bycarelab.eu/wp-bycare/",
+      "photo": "bycare.png"
+    },
+    {
+      "name": "La Sicilia",
+      "url": "http://www.lasicilia.it/",
+      "photo": ""
+    },
+    {
+      "name": "Elisa Toscano",
+      "url": "http://www.elisatoscano.it/",
+      "photo": "elisatoscano.png"
+    },
+    {
+      "name": "SiciliaNews24",
+      "url": "https://sicilianews24.it/",
+      "photo": "sicilianews24.jpg"
+    },
+    {
+      "name": "ilvideogioco.com",
+      "url": "http://ilvideogioco.com/",
+      "photo": "ilvideogioco.png"
+    },
+    {
+      "name": "Warian",
+      "url": "http://www.warian.net/",
+      "photo": "warian.jpg"
+    },
+    {
+      "name": "3D Store",
+      "url": "http://www.3dstorecatania.it/",
+      "photo": "3dstore.jpg"
+    },
+    {
+      "name": "Fablab Catania",
+      "url": "https://www.fablabcatania.eu/",
+      "photo": "fablab.jpg"
+    },
+    {
+      "name": "Radio Start Me Up",
+      "url": "http://www.radiostartmeup.it/",
+      "photo": "startmeup.png"
+    },
+    {
+      "name": "Startup Messina",
+      "url": "http://www.startupmessina.org/",
+      "photo": ""
+    },
+    {
+      "name": "CS Italia",
+      "url": "http://www.csitalia.org/",
+      "photo": "csitalia.png"
+    },
+    {
+      "name": "Microsoft Student Partner",
+      "url": "#",
+      "photo": "msp.png"
+    },
+    {
+      "name": "Marketers",
+      "url": "#",
+      "photo": "marketers.JPG"
+    },
+    {
+      "name": "Youth Hub",
+      "url": "http://youthub.net/",
+      "photo": "youthhub.png"
+    },
+    {
+      "name": "GBG Catania",
+      "url": "http://gbgcatania.it/",
+      "photo": "gbg.png"
+    },
+    {
+      "name": "Soglia Studio",
+      "url": "http://soglia.studio/",
+      "photo": "soglia.png"
+    }
+  ],
+  "supporters": [
+    {
+      "name": "CS Italia",
+      "url": "http://www.csitalia.org/",
+      "photo": "csitalia.png"
+    },
+    {
+      "name": "AtFactory StartupLab",
+      "url": "http://atfactory.it/",
+      "photo": "artfactory.png"
+    },
+    {
+      "name": "Microsoft Student Partner",
+      "url": "#",
+      "photo": "msp.png"
+    },
+    {
+      "name": "Palestra per la mente",
+      "url": "http://www.palestraperlamente.org/",
+      "photo": "palestraperlamente.png"
+    },
+    {
+      "name": "Marketers",
+      "url": "#",
+      "photo": "marketers.JPG"
+    },
+    {
+      "name": "Youth Hub",
+      "url": "http://youthub.net/",
+      "photo": "youthhub.png"
+    },
+    {
+      "name": "GBG Catania",
+      "url": "http://gbgcatania.it/",
+      "photo": "gbg.png"
+    },
+    {
+      "name": "GDG Italia",
+      "url": "https://developers-it.googleblog.com/2013/01/seguire-gli-eventi-dei-gdg-italiani.html",
+      "photo": "gdgit.jpg"
+    },
+    {
+      "name": "DMI UNICT",
+      "url": "http://web.dmi.unict.it/",
+      "photo": "dmi.gif"
+    },
+    {
+      "name": "iCTLab",
+      "url": "https://www.ictlab.srl/",
+      "photo": "ictlab.jpg"
+    }
+  ],
+  "organizers": [
+    {
+      "name": "Soglia Studio",
+      "url": "http://soglia.studio/",
+      "photo": "soglia.png"
+    },
+    {
+      "name": "Microsoft Student Partner",
+      "url": "#",
+      "photo": "msp.png"
+    },
+    {
+      "name": "Palestra per la mente",
+      "url": "http://www.palestraperlamente.org/",
+      "photo": "palestraperlamente.png"
+    },
+    {
+      "name": "GBG Catania",
+      "url": "http://gbgcatania.it/",
+      "photo": "gbg.png"
+    }
+  ]
+}

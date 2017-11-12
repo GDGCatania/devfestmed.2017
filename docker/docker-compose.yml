@@ -1,0 +1,8 @@
+version: '3'
+services:
+  ws:
+    image: 'php:apache'
+    volumes:
+      - ..:/var/www/html/
+    ports:
+      - 1711:80

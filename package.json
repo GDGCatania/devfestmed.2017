@@ -1,0 +1,20 @@
+{
+  "name": "devfestmed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile-assets": "gulp",
+    "watch-and-compile-assets": "gulp sass:watch"
+  },
+  "author": "Luca Cavallaro <luca.cavallaro@outlook.it>",
+  "license": "ISC",
+  "devDependencies": {
+    "foundation-sites": "^6.4.4-rc1",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "normalize.css": "^7.0.0"
+  },
+  "dependencies": {}
+}
